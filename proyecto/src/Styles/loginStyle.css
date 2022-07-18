@@ -9,8 +9,9 @@
     transform: translate(-50%, -50%);
     box-sizing: border-box;
     padding: 70px 30px;
+    margin-top: 5%;
   }
-  
+
   .login-box .avatar {
     width: 200px;
     height: 200px;
@@ -53,7 +54,7 @@
     border: none;
     outline: none;
     height: 40px;
-    background: #b80f22;
+    background: #1788b9;
     color: #fff;
     font-size: 18px;
     border-radius: 20px;
@@ -61,7 +62,7 @@
   
   .login-box input[type="submit"]:hover {
     cursor: pointer;
-    background: #ffc107;
+    background: #dc5fb3;
     color: #000;
   }
   

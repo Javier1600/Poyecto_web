@@ -5,6 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url("https://c.wallhere.com/photos/f2/c6/beer_vodka_whiskey_bottles-210528.jpg!d");
+  background-repeat: "no-repeat";
+  background-size: 100%;
 }
 
 code {
